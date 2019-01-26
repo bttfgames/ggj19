@@ -102,6 +102,15 @@ if(life_delta_time >= timer_life_offset)
 			/// @DnDArgument : "expr" "1"
 			/// @DnDArgument : "var" "cagou"
 			cagou = 1;
+		
+			/// @DnDAction : YoYo Games.Audio.Play_Audio
+			/// @DnDVersion : 1
+			/// @DnDHash : 34A972AD
+			/// @DnDParent : 6BE16FC4
+			/// @DnDArgument : "soundid" "sound_die"
+			/// @DnDArgument : "loop" "1"
+			/// @DnDSaveInfo : "soundid" "6c02ae53-090f-4cb0-bcf1-6e8560bccd31"
+			audio_play_sound(sound_die, 0, 1);
 		}
 	}
 
