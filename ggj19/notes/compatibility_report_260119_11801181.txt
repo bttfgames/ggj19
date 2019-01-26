@@ -1,0 +1,22 @@
+Resource name collision 'asemaker' already exists, renamed to 'asemaker_objects'
+Converting GML script: ${project_dir}\objects\asemaker_objects\Create_0.gml
+Converted description /// @description Initialize variables
+Converted string - line 10: "\" -> "\\"
+
+Converting GML script: ${project_dir}\objects\asemaker_objects\Alarm_4.gml
+Converted description /// @description Load sprite archive ( the main event ) /// @param  the main event
+
+Converting GML script: ${project_dir}\objects\asemaker_objects\Alarm_3.gml
+Converted description /// @description On sprites reloaded from live reload
+
+Converting GML script: ${project_dir}\objects\asemaker_objects\Alarm_2.gml
+Converted description /// @description On archive loaded for the first time
+
+Converting GML script: ${project_dir}\objects\asemaker_objects\Alarm_1.gml
+Converted description /// @description On load complete
+
+Converting GML script: ${project_dir}\objects\asemaker_objects\Alarm_0.gml
+Converted description /// @description Begin loading
+
+Converting GML script: ${project_dir}\objects\asemaker_objects\Step_0.gml
+Converted description /// @description Check for window regaining focus
