@@ -21,7 +21,7 @@ var health_now = __dnd_health;
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 09F30F4D
+/// @DnDDisabled : 1
 /// @DnDArgument : "x" "10"
 /// @DnDArgument : "y" "80"
 /// @DnDArgument : "var" "health_now"
-draw_text(10, 80, string("Caption: ") + string(health_now));
