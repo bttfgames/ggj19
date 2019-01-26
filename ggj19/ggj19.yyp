@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "4211c466-cf1e-4f8e-a2c7-120f649fcf06",
+            "Value": {
+                "id": "4ebc6a9f-cc49-4c28-a0e5-f76861e7c52f",
+                "resourcePath": "sprites\\spr_terrain_tilemap\\spr_terrain_tilemap.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ad4dc13-a0a5-4638-a942-3550eded62d6",
             "Value": {
                 "id": "16ce9c89-b8c4-449d-b7ed-8e59585203d3",
@@ -196,6 +204,14 @@
                 "id": "8b15ded9-b563-4a8f-afd5-b0e0b67d674c",
                 "resourcePath": "views\\d0e6501c-81f5-4680-9d55-4f88c13b9f89.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d5a1acec-ecc0-48b1-a081-310ae7cb276e",
+            "Value": {
+                "id": "d6da1fa6-ed13-49c8-b2c1-dca6a743d8c9",
+                "resourcePath": "tilesets\\terrain\\terrain.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
