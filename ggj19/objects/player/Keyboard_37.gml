@@ -31,4 +31,12 @@ if(is_meeting == 0)
 	/// @DnDParent : 551F79BE
 	image_xscale = 1;
 	image_yscale = 1;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 3AFEDD83
+	/// @DnDParent : 551F79BE
+	/// @DnDArgument : "expr" "-1"
+	/// @DnDArgument : "var" "dir_x"
+	dir_x = -1;
 }

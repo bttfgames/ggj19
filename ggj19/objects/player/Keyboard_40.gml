@@ -25,4 +25,12 @@ if(is_meeting == 0)
 	/// @DnDArgument : "y_relative" "1"
 	
 	y += player_speed;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 7F089075
+	/// @DnDParent : 2E443EE8
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "var" "dir_y"
+	dir_y = 1;
 }

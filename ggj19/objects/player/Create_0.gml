@@ -11,3 +11,15 @@ player_speed = 1;
 /// @DnDArgument : "health" "10"
 
 __dnd_health = real(10);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4186AE5D
+/// @DnDArgument : "var" "dir_x"
+dir_x = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4A5CEB73
+/// @DnDArgument : "var" "dir_y"
+dir_y = 0;
