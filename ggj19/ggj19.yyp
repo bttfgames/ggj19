@@ -34,7 +34,7 @@
             "Key": "002fac34-9968-4cab-b39a-1c2010b1baa3",
             "Value": {
                 "id": "f3ae1ba0-75b6-4838-a740-b8fedb01d203",
-                "resourcePath": "objects\\inventory\\inventory.yy",
+                "resourcePath": "objects\\obj_hud\\obj_hud.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -43,6 +43,14 @@
             "Value": {
                 "id": "2d1caad4-4a5f-4422-9b56-602474dd25f4",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0f6bb832-c5dd-4db9-a217-414a52e19a1d",
+            "Value": {
+                "id": "5a706d96-38b2-4029-bd7f-5ac69b5494e7",
+                "resourcePath": "sprites\\spr_hud_life_008\\spr_hud_life_008.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -79,10 +87,50 @@
             }
         },
         {
+            "Key": "225d0036-5972-4835-8046-054ac4c23020",
+            "Value": {
+                "id": "82e49055-3a38-4441-89c1-615c6fb08161",
+                "resourcePath": "sprites\\spr_hud_life_017\\spr_hud_life_017.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2804a4cc-e6f6-4644-a3b4-3813cd5184a5",
+            "Value": {
+                "id": "99970a71-d287-4c7c-b600-75f99e1a39fe",
+                "resourcePath": "sprites\\spr_hud_life_015\\spr_hud_life_015.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2f062ad2-852d-4f80-a831-5069804ca346",
+            "Value": {
+                "id": "2e7193b8-1271-4b63-83ee-2a3564ca5f6d",
+                "resourcePath": "sprites\\spr_hud_life_005\\spr_hud_life_005.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "326c1bcc-f8d0-4953-a0ec-5670360a90a5",
             "Value": {
                 "id": "84a07d36-b314-40a8-affd-99ad8ed69eae",
                 "resourcePath": "views\\326c1bcc-f8d0-4953-a0ec-5670360a90a5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3360fc3b-231a-4d39-82f7-4b5cc61401aa",
+            "Value": {
+                "id": "9eab04f4-5911-4790-9b12-a1918d5b6a4a",
+                "resourcePath": "sprites\\spr_hud_life_018\\spr_hud_life_018.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3719ea5f-e92f-4ffe-b609-35970e95589e",
+            "Value": {
+                "id": "857110fb-4835-4ca0-b374-fdf7f4d1bca7",
+                "resourcePath": "views\\3719ea5f-e92f-4ffe-b609-35970e95589e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -103,6 +151,22 @@
             }
         },
         {
+            "Key": "4703dc2f-9e2f-492c-8193-7595c75f2ae5",
+            "Value": {
+                "id": "a599d636-83f3-4ce8-ac4b-4880ddd5d353",
+                "resourcePath": "sprites\\spr_hud_life_012\\spr_hud_life_012.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "479f917a-fe51-4403-ae78-a0aeb9877d88",
+            "Value": {
+                "id": "fe365734-c3b6-4df9-b8b5-1127d12dd06b",
+                "resourcePath": "sprites\\spr_hud_life_009\\spr_hud_life_009.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ad4dc13-a0a5-4638-a942-3550eded62d6",
             "Value": {
                 "id": "16ce9c89-b8c4-449d-b7ed-8e59585203d3",
@@ -119,6 +183,14 @@
             }
         },
         {
+            "Key": "54144034-1a94-403b-a2a1-1b375d16594e",
+            "Value": {
+                "id": "fe679aa1-fccb-4fdd-bc11-d9bd7c99f984",
+                "resourcePath": "sprites\\spr_hud_life_016\\spr_hud_life_016.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55473495-08c8-4582-a9f7-e4b7f65d60b4",
             "Value": {
                 "id": "afa9d1ef-0b46-4540-b6bc-018de6e2b41a",
@@ -127,11 +199,27 @@
             }
         },
         {
+            "Key": "59006785-ea2e-4a74-b06f-19229cc9f2e7",
+            "Value": {
+                "id": "38f1b6ab-774b-449a-838f-b74236fc1e79",
+                "resourcePath": "sprites\\spr_hud_life_019\\spr_hud_life_019.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5cfd1d99-25eb-4586-b05e-e4c8ae076211",
             "Value": {
                 "id": "f09c35b5-3354-41ec-b9d6-4f8462424702",
                 "resourcePath": "views\\5cfd1d99-25eb-4586-b05e-e4c8ae076211.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63a0bc42-dae0-45d9-a6aa-55f1dc71db10",
+            "Value": {
+                "id": "875c21e3-58da-43f7-b296-e88d16afaa6b",
+                "resourcePath": "sprites\\spr_hud_life_011\\spr_hud_life_011.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,10 +255,50 @@
             }
         },
         {
+            "Key": "8e9ed997-cb09-45f1-9e46-58db03b66414",
+            "Value": {
+                "id": "83ce5a9f-d3d9-40a9-a010-f5d33094b791",
+                "resourcePath": "sprites\\spr_hud_life_021\\spr_hud_life_021.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8fd491a6-c1e0-4c62-8c9a-faa59dc4d57e",
+            "Value": {
+                "id": "eddced26-98a6-45c8-a82a-dd7cf3ce3c58",
+                "resourcePath": "sprites\\spr_hud_shit\\spr_hud_shit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "97baf65f-127a-4b62-9515-350e7a50b209",
+            "Value": {
+                "id": "2a42680c-ee8b-435e-8c95-393ed5785060",
+                "resourcePath": "sprites\\spr_hud_life_006\\spr_hud_life_006.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "997a42c4-d97d-495f-b354-cfeaea695b43",
+            "Value": {
+                "id": "587e38ef-3008-4a69-85ff-5b0baa901047",
+                "resourcePath": "sprites\\spr_hud_life_003\\spr_hud_life_003.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9edd33bd-7863-4ba9-88eb-656fa842d656",
             "Value": {
                 "id": "a25caa8b-58ad-454c-aad6-2bc9433e9faf",
                 "resourcePath": "sprites\\spr_bg\\spr_bg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f38fdee-f304-44a9-9254-b8294136d4bd",
+            "Value": {
+                "id": "b63abe8b-63e0-4aa6-9651-ce1d3894eb20",
+                "resourcePath": "sprites\\spr_hud_life_002\\spr_hud_life_002.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -180,6 +308,14 @@
                 "id": "a906c895-6c35-4c43-8221-f68e4fe89e77",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ae6d3c46-2022-49d3-94ff-8e1cdabe5559",
+            "Value": {
+                "id": "9734904c-e890-4a6e-9cee-ed88473b064f",
+                "resourcePath": "objects\\obj_hud_life\\obj_hud_life.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +332,14 @@
                 "id": "ac31326a-cf82-4754-9f4a-1b9b9b8e5cd9",
                 "resourcePath": "views\\b34344a1-642c-487a-a1b2-c9aee5731e61.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c83c0057-ded0-4d7a-b907-dbbd8af6e41d",
+            "Value": {
+                "id": "97f49dc3-24e1-45cd-9a97-9c0236300bba",
+                "resourcePath": "sprites\\spr_hud_life_004\\spr_hud_life_004.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,11 +391,27 @@
             }
         },
         {
+            "Key": "d363af38-52eb-4579-8a1c-5959ce211ee2",
+            "Value": {
+                "id": "b632bb70-ead2-4e08-90f8-1762c01a4dcc",
+                "resourcePath": "sprites\\spr_hud_life_014\\spr_hud_life_014.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d5a1acec-ecc0-48b1-a081-310ae7cb276e",
             "Value": {
                 "id": "d6da1fa6-ed13-49c8-b2c1-dca6a743d8c9",
                 "resourcePath": "tilesets\\terrain\\terrain.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "d8780327-72e7-4493-99f2-d95eed323471",
+            "Value": {
+                "id": "3e7e7dee-d93d-4bf1-8454-d9fb50f2f9fa",
+                "resourcePath": "sprites\\spr_hud_life_013\\spr_hud_life_013.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -271,6 +431,22 @@
             }
         },
         {
+            "Key": "efbc25d4-5d27-432d-92f1-3e3bdde54d15",
+            "Value": {
+                "id": "82aa3ef7-75c5-4d32-b5a7-7175b138c915",
+                "resourcePath": "sprites\\spr_hud_life_010\\spr_hud_life_010.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f03bd714-7834-4161-a548-af11d48caff9",
+            "Value": {
+                "id": "8c33e2c6-9817-467e-87d7-319826e944b9",
+                "resourcePath": "sprites\\spr_hud_life_020\\spr_hud_life_020.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "d9cebc10-a283-4a7b-8bab-668cb90a2804",
@@ -284,6 +460,22 @@
                 "id": "331a9924-3620-4340-9ff2-0092cf3989c7",
                 "resourcePath": "views\\f57c6304-f497-4efc-9aa2-9d98eede6c34.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f6798bec-7548-44a5-b28c-af5f5c7ff442",
+            "Value": {
+                "id": "31c752ea-381e-4f52-b1cd-41038aa5ac23",
+                "resourcePath": "sprites\\spr_hud_life_001\\spr_hud_life_001.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fbc83066-09cf-49de-b49f-4fe02cecdea9",
+            "Value": {
+                "id": "0cf24427-8dc7-4ca2-a817-23d58d941e02",
+                "resourcePath": "sprites\\spr_hud_life_007\\spr_hud_life_007.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
