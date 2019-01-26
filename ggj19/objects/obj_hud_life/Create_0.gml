@@ -8,5 +8,4 @@ shit_sprite = spr_hud_life_005;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 0593750D
-/// @DnDArgument : "code" "display_set_gui_size(200,112)"
-display_set_gui_size(200,112)
+/// @DnDArgument : "code" ""

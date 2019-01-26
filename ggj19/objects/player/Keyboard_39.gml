@@ -5,10 +5,10 @@
 /// @DnDArgument : "var" "is_meeting"
 /// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "function" "tile_place_meeting"
-/// @DnDArgument : "arg" "x+player_speed"
+/// @DnDArgument : "arg" "x+1"
 /// @DnDArgument : "arg_1" "y"
 /// @DnDArgument : "arg_2" ""Collision""
-var is_meeting = tile_place_meeting(x+player_speed, y, "Collision");
+var is_meeting = tile_place_meeting(x+1, y, "Collision");
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
