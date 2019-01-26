@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "13bfb26f-937c-4a63-aeb6-90609f583c1b",
+            "Value": {
+                "id": "a35c4783-508c-4b2c-be36-35b953f8c53b",
+                "resourcePath": "sprites\\spr_player_walk\\spr_player_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13eb3008-633f-4da4-86df-8b6094ac6704",
             "Value": {
                 "id": "8f1d25ba-4f52-4686-b28e-aecf1bdc7655",
