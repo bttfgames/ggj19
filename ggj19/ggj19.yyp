@@ -159,11 +159,27 @@
             }
         },
         {
+            "Key": "58d7387e-8738-44c6-9fc3-8b56034f5be6",
+            "Value": {
+                "id": "91dc6e17-3eaa-4de5-87b4-035cb232f69a",
+                "resourcePath": "sprites\\spr_table\\spr_table.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5cfd1d99-25eb-4586-b05e-e4c8ae076211",
             "Value": {
                 "id": "f09c35b5-3354-41ec-b9d6-4f8462424702",
                 "resourcePath": "views\\5cfd1d99-25eb-4586-b05e-e4c8ae076211.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "632ed161-bda8-4d16-811d-8e937ca0949c",
+            "Value": {
+                "id": "b039c692-57e7-4cbd-826b-c2c20596d49e",
+                "resourcePath": "sounds\\sound_grab\\sound_grab.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -236,6 +252,14 @@
                 "id": "900bebff-3f40-4d20-8fb4-16f6b35ec218",
                 "resourcePath": "scripts\\inv_declare_definition\\inv_declare_definition.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a39a723b-d56d-4f4a-bf50-8ca1d8e3916e",
+            "Value": {
+                "id": "2a6f6c4e-ce7a-4d89-87a0-800105f5eba2",
+                "resourcePath": "objects\\table\\table.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +399,14 @@
             }
         },
         {
+            "Key": "eba64fe4-fb09-4d44-a6b2-c115abdfe28d",
+            "Value": {
+                "id": "40892306-6110-4480-98b8-86ca14a9d2d2",
+                "resourcePath": "objects\\obj_hint\\obj_hint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ed87fdef-74b1-4034-95c5-134c17f90a52",
             "Value": {
                 "id": "518418f2-6d68-41ca-8143-d51a0d586241",
@@ -428,6 +460,14 @@
                 "id": "1f3d0638-8694-41c0-bed9-10fc9f74ace4",
                 "resourcePath": "views\\fd78424d-714e-4c32-ad64-28738640bc75.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fdce9647-b928-444a-9d9b-7ecc81022bb2",
+            "Value": {
+                "id": "833ffd4b-a7c9-48bb-90d3-bbff431957f3",
+                "resourcePath": "sprites\\spr_hint_background\\spr_hint_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,15 +1,40 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
-/// @DnDHash : 530127E0
-instance_destroy();
+/// @DnDHash : 3498AC42
+/// @DnDArgument : "expr" "keyboard_check_pressed(vk_space)"
+if(keyboard_check_pressed(vk_space))
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 530127E0
+	/// @DnDParent : 3498AC42
+	instance_destroy();
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 449C5F6B
-/// @DnDApplyTo : 1f18a24f-ea33-4a23-bb8b-53dab458d669
-/// @DnDArgument : "expr" "2"
-/// @DnDArgument : "var" "toilet_frame"
-with(obj_inv_toilet_paper) {
-toilet_frame = 2;
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 449C5F6B
+	/// @DnDApplyTo : 1f18a24f-ea33-4a23-bb8b-53dab458d669
+	/// @DnDParent : 3498AC42
+	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "var" "toilet_frame"
+	with(obj_inv_toilet_paper) {
+	toilet_frame = 2;
+	
+	}
 
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 5DF51D1D
+	/// @DnDParent : 3498AC42
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "var" "has_toilet_paper"
+	has_toilet_paper = 1;
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 03741B05
+	/// @DnDParent : 3498AC42
+	/// @DnDArgument : "soundid" "sound_grab"
+	/// @DnDSaveInfo : "soundid" "632ed161-bda8-4d16-811d-8e937ca0949c"
+	audio_play_sound(sound_grab, 0, 0);
 }
