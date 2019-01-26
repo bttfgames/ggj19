@@ -29,4 +29,12 @@ if(keyboard_check_pressed(vk_space))
 	/// @DnDArgument : "expr" "1"
 	/// @DnDArgument : "var" "has_toilet_paper"
 	has_toilet_paper = 1;
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 03741B05
+	/// @DnDParent : 3498AC42
+	/// @DnDArgument : "soundid" "sound_grab"
+	/// @DnDSaveInfo : "soundid" "632ed161-bda8-4d16-811d-8e937ca0949c"
+	audio_play_sound(sound_grab, 0, 0);
 }
