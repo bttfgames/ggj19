@@ -25,15 +25,15 @@ if(life_delta_time >= timer_life_offset)
 	/// @DnDVersion : 1
 	/// @DnDHash : 4AA8DF5E
 	/// @DnDParent : 379B0214
-	/// @DnDArgument : "expr" "+1"
+	/// @DnDArgument : "expr" "life_count+1"
 	/// @DnDArgument : "var" "life_count"
-	life_count = +1;
+	life_count = life_count+1;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 14F444FA
 	/// @DnDParent : 379B0214
-	/// @DnDArgument : "expr" "spr_hud_life_002"
-	/// @DnDArgument : "var" "shit_sprite"
-	shit_sprite = spr_hud_life_002;
+	/// @DnDArgument : "expr" "life_count"
+	/// @DnDArgument : "var" "life_sprite_frame"
+	life_sprite_frame = life_count;
 }
