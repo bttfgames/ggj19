@@ -46,9 +46,9 @@ last_timer_glow = current_time;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2086FEDE
-/// @DnDArgument : "expr" "3000"
+/// @DnDArgument : "expr" "my_room_speed"
 /// @DnDArgument : "var" "timer_life_offset"
-timer_life_offset = 3000;
+timer_life_offset = my_room_speed;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
