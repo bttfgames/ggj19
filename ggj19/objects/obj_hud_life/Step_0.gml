@@ -51,9 +51,9 @@ if(life_delta_time >= timer_life_offset)
 			/// @DnDVersion : 1
 			/// @DnDHash : 121A145F
 			/// @DnDParent : 712DEB5F
-			/// @DnDArgument : "expr" "1500"
+			/// @DnDArgument : "expr" "my_room_speed / 2 "
 			/// @DnDArgument : "var" "timer_life_offset"
-			timer_life_offset = 1500;
+			timer_life_offset = my_room_speed / 2 ;
 		}
 	
 		/// @DnDAction : YoYo Games.Common.Else
@@ -66,9 +66,9 @@ if(life_delta_time >= timer_life_offset)
 			/// @DnDVersion : 1
 			/// @DnDHash : 3740A210
 			/// @DnDParent : 325345F9
-			/// @DnDArgument : "expr" "3000"
+			/// @DnDArgument : "expr" "my_room_speed"
 			/// @DnDArgument : "var" "timer_life_offset"
-			timer_life_offset = 3000;
+			timer_life_offset = my_room_speed;
 		}
 	
 		/// @DnDAction : YoYo Games.Instance Variables.Get_Health
