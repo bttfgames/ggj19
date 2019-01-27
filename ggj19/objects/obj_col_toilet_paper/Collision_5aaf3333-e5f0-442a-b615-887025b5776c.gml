@@ -15,10 +15,10 @@ if(keyboard_check_pressed(vk_space))
 	/// @DnDHash : 449C5F6B
 	/// @DnDApplyTo : 1f18a24f-ea33-4a23-bb8b-53dab458d669
 	/// @DnDParent : 3498AC42
-	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "expr" "1"
 	/// @DnDArgument : "var" "toilet_frame"
 	with(obj_inv_toilet_paper) {
-	toilet_frame = 2;
+	toilet_frame = 1;
 	
 	}
 
@@ -42,6 +42,6 @@ if(keyboard_check_pressed(vk_space))
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 05F348D7
-/// @DnDArgument : "code" "instance_create_depth(x, y, -1, obj_hint);$(13_10)obj_hint.hint_text = "Press space to collect";"
+/// @DnDArgument : "code" "instance_create_depth(x, y, -1, obj_hint);$(13_10)obj_hint.hint_text = "PRESS SPACE TO COLLECT";"
 instance_create_depth(x, y, -1, obj_hint);
-obj_hint.hint_text = "Press space to collect";
+obj_hint.hint_text = "PRESS SPACE TO COLLECT";

@@ -3,9 +3,9 @@
 /// @DnDHash : 62915E6F
 /// @DnDArgument : "x" "25"
 /// @DnDArgument : "y" "10"
-/// @DnDArgument : "sprite" "spr_inventory"
-/// @DnDSaveInfo : "sprite" "825137d4-7757-43fb-8722-5c412dd3c537"
-draw_sprite(spr_inventory, 0, 25, 10);
+/// @DnDArgument : "sprite" "spr_hud_toilet_paper"
+/// @DnDSaveInfo : "sprite" "00898576-9796-4a8d-972d-794663205b13"
+draw_sprite(spr_hud_toilet_paper, 0, 25, 10);
 
 /// @DnDAction : YoYo Games.Instance Variables.Get_Health
 /// @DnDVersion : 1
