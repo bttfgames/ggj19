@@ -1,8 +1,8 @@
 {
-    "id": "f1669374-5d5d-4dea-89b2-2e7238c37135",
+    "id": "3e50883b-75c6-45a2-b585-d67da89ccbc0",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sound_menu_music",
+    "name": "sound_game_music",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

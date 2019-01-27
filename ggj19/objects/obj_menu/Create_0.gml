@@ -23,5 +23,5 @@ audio_stop_all();
 /// @DnDHash : 0136CCE2
 /// @DnDArgument : "soundid" "sound_menu_music"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "810f247c-80d1-4edd-9f98-bea51a99ade2"
+/// @DnDSaveInfo : "soundid" "f1669374-5d5d-4dea-89b2-2e7238c37135"
 audio_play_sound(sound_menu_music, 0, 1);

@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0437ed9b-9923-4d62-8d8c-eb1ee29d44e6",
+            "Value": {
+                "id": "e825e080-7f39-4b93-a5fa-ed9b9ab998d6",
+                "resourcePath": "sprites\\spr_hud_key\\spr_hud_key.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b828777-0099-419e-9f4f-0db88cd0a0c4",
             "Value": {
                 "id": "2d1caad4-4a5f-4422-9b56-602474dd25f4",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "3e50883b-75c6-45a2-b585-d67da89ccbc0",
+            "Value": {
+                "id": "bda38640-7a8d-4113-8fc5-65a2262b8e44",
+                "resourcePath": "sounds\\sound_game_music\\sound_game_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "40e2e654-4ec7-4c64-b9bd-af31a08af2a4",
             "Value": {
                 "id": "e586ef44-1320-4b1d-a9d1-4b2a116d12b5",
@@ -212,6 +228,14 @@
                 "id": "16ce9c89-b8c4-449d-b7ed-8e59585203d3",
                 "resourcePath": "views\\4ad4dc13-a0a5-4638-a942-3550eded62d6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4adb3a27-5705-400a-bb20-ef5f1144d522",
+            "Value": {
+                "id": "223b985e-c27c-4bbb-82cd-5be43e49076d",
+                "resourcePath": "objects\\obj_inv_key\\obj_inv_key.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -535,6 +559,14 @@
             }
         },
         {
+            "Key": "c39272b5-3e28-4e64-85e4-864ef82a443c",
+            "Value": {
+                "id": "63951d51-3f64-4ae3-a079-fed64ba3a2ed",
+                "resourcePath": "sprites\\spr_key\\spr_key.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c4fcaca2-cc92-450f-a91f-85fb2473ffe0",
             "Value": {
                 "id": "cb14311d-2bee-495f-8635-06d5c4062258",
@@ -700,6 +732,14 @@
                 "id": "30acc437-6f7c-4b0d-b1f4-044442f3253d",
                 "resourcePath": "sprites\\spr_arrow\\spr_arrow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1669374-5d5d-4dea-89b2-2e7238c37135",
+            "Value": {
+                "id": "1ba199a3-e994-424d-8f71-d8e21dac18a2",
+                "resourcePath": "sounds\\sound_menu_music\\sound_menu_music.yy",
+                "resourceType": "GMSound"
             }
         },
         {
