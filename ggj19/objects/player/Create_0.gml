@@ -1,5 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 5519AB99
+/// @DnDArgument : "var" "loop_death"
+loop_death = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 19ED02CB
 /// @DnDArgument : "var" "is_pushing"
 is_pushing = 0;
