@@ -1,14 +1,13 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
-/// @DnDHash : 0DFED887
-/// @DnDArgument : "var" "keyboard_check(vk_space)"
-/// @DnDArgument : "value" "1"
-if(keyboard_check(vk_space) == 1)
+/// @DnDHash : 4F6A5E01
+/// @DnDArgument : "expr" "global.has_key"
+if(global.has_key)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 70339AE9
-	/// @DnDParent : 0DFED887
+	/// @DnDHash : 44D5DF6A
+	/// @DnDParent : 4F6A5E01
 	/// @DnDArgument : "expr" "spr_door_opening"
 	/// @DnDArgument : "var" "sprite_index"
 	sprite_index = spr_door_opening;
