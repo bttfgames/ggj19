@@ -8,9 +8,9 @@ player_speed = 1;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 46DD0231
-/// @DnDArgument : "health" "10"
+/// @DnDArgument : "health" "100"
 
-__dnd_health = real(10);
+__dnd_health = real(100);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

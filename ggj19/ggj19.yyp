@@ -151,6 +151,22 @@
             }
         },
         {
+            "Key": "438b0e7f-38c4-41b0-9988-32ea5858f6e7",
+            "Value": {
+                "id": "7239c62b-f633-4be7-8492-83188a154c61",
+                "resourcePath": "sprites\\spr_player_push\\spr_player_push.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47064745-f479-4d6e-a450-64f7e6636295",
+            "Value": {
+                "id": "58fd8dfe-f2a5-4074-9dbf-e0c32c0b9936",
+                "resourcePath": "sprites\\spr_hud_life_glow\\spr_hud_life_glow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ad4dc13-a0a5-4638-a942-3550eded62d6",
             "Value": {
                 "id": "16ce9c89-b8c4-449d-b7ed-8e59585203d3",
@@ -244,6 +260,14 @@
                 "id": "877fe97d-8031-4c64-834a-e2952a1ad972",
                 "resourcePath": "sounds\\sound_die\\sound_die.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6c8effde-7d95-43dc-b75d-be29bab14836",
+            "Value": {
+                "id": "57ea0273-5dbf-411f-a941-c190427a00b6",
+                "resourcePath": "sprites\\mario_fudido_push_in\\mario_fudido_push_in.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -580,6 +604,14 @@
                 "id": "a79b28d8-c85a-4403-b99a-52361b060d03",
                 "resourcePath": "views\\fe41fa2b-ee8a-4242-9d62-d85b9544959e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff0ab333-8c93-4ae4-aae2-b247a9afea9d",
+            "Value": {
+                "id": "ce0b22de-7cf6-49ba-a816-281f4b0a2e2e",
+                "resourcePath": "sprites\\mario_fudido_push_out\\mario_fudido_push_out.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
