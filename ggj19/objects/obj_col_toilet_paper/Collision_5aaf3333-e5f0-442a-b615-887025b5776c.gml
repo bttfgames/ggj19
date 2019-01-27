@@ -42,6 +42,6 @@ if(keyboard_check_pressed(vk_space))
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 05F348D7
-/// @DnDArgument : "code" "instance_create_depth(x, y, -1, obj_hint);$(13_10)obj_hint.hint_text = "Press space to collect";"
+/// @DnDArgument : "code" "instance_create_depth(x, y, -1, obj_hint);$(13_10)obj_hint.hint_text = "PRESS SPACE TO COLLECT";"
 instance_create_depth(x, y, -1, obj_hint);
-obj_hint.hint_text = "Press space to collect";
+obj_hint.hint_text = "PRESS SPACE TO COLLECT";
