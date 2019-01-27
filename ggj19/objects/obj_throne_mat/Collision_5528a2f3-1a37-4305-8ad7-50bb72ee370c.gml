@@ -44,3 +44,12 @@ if(global.has_toilet_paper == 1 && time_win == 0)
 	/// @DnDArgument : "x" "obj_throne_mat.x"
 	/// @DnDArgument : "y" "y"
 }
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 206827A5
+/// @DnDArgument : "code" "if(player.did_win != 1){$(13_10)	instance_create_depth(x, y, -1, obj_hint);$(13_10)	obj_hint.hint_text = "SOMETHING IS MISSING";$(13_10)}"
+if(player.did_win != 1){
+	instance_create_depth(x, y, -1, obj_hint);
+	obj_hint.hint_text = "SOMETHING IS MISSING";
+}
