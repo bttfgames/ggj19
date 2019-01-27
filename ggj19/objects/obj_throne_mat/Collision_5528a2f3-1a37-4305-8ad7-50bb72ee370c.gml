@@ -14,6 +14,14 @@ if(global.has_toilet_paper == 1 && time_win == 0)
 	/// @DnDSaveInfo : "soundid" "ad6c126f-a981-40da-83d6-e6296fd1db28"
 	audio_play_sound(sound_win, 0, 0);
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 4799AFC3
+	/// @DnDParent : 15688C8E
+	/// @DnDArgument : "soundid" "sound_holy"
+	/// @DnDSaveInfo : "soundid" "a03fb750-efda-4a87-93f7-be13149cfb2f"
+	audio_play_sound(sound_holy, 0, 0);
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 2269DE47
