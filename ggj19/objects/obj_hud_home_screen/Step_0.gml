@@ -30,5 +30,17 @@ if(menu_in == 1)
 		/// @DnDArgument : "expr" "spr_home_screen_main"
 		/// @DnDArgument : "var" "sprite_index"
 		sprite_index = spr_home_screen_main;
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 2655DC8B
+		/// @DnDApplyTo : 2e79f66f-b469-4494-a60b-823215c17823
+		/// @DnDParent : 62E95E17
+		/// @DnDArgument : "expr" "spr_logo_idle"
+		/// @DnDArgument : "var" "sprite_index"
+		with(obj_hud_logo) {
+		sprite_index = spr_logo_idle;
+		
+		}
 	}
 }
