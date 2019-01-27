@@ -431,14 +431,6 @@
             }
         },
         {
-            "Key": "a03fb750-efda-4a87-93f7-be13149cfb2f",
-            "Value": {
-                "id": "56fdeb1d-f096-4e81-8749-60e514df7540",
-                "resourcePath": "sounds\\sound_holy\\sound_holy.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "a39a723b-d56d-4f4a-bf50-8ca1d8e3916e",
             "Value": {
                 "id": "2a6f6c4e-ce7a-4d89-87a0-800105f5eba2",
@@ -631,6 +623,14 @@
             }
         },
         {
+            "Key": "e167c5bd-fb5d-4921-8512-65644000ee2a",
+            "Value": {
+                "id": "23d231ee-ce3f-4b8c-93e5-55456cb00e16",
+                "resourcePath": "sprites\\spr_player_death1\\spr_player_death1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e2f10433-1f00-4106-a1c0-b0f95b9b999d",
             "Value": {
                 "id": "4534910c-b103-4a33-87a6-edb48813f67c",
@@ -675,6 +675,14 @@
             "Value": {
                 "id": "30acc437-6f7c-4b0d-b1f4-044442f3253d",
                 "resourcePath": "sprites\\spr_arrow\\spr_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1904363-1e61-453f-8fbd-c8c886751ca0",
+            "Value": {
+                "id": "1b7c9917-a371-4ff4-95c1-a18acaa6b5a8",
+                "resourcePath": "sprites\\spr_player_death2\\spr_player_death2.yy",
                 "resourceType": "GMSprite"
             }
         },
