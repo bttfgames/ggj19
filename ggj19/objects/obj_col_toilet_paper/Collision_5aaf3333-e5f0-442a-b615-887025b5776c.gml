@@ -22,13 +22,13 @@ if(keyboard_check_pressed(vk_space))
 	
 	}
 
-	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
-	/// @DnDHash : 5DF51D1D
+	/// @DnDHash : 41933D1A
 	/// @DnDParent : 3498AC42
-	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "value" "1"
 	/// @DnDArgument : "var" "has_toilet_paper"
-	has_toilet_paper = 1;
+	global.has_toilet_paper = 1;
 
 	/// @DnDAction : YoYo Games.Audio.Play_Audio
 	/// @DnDVersion : 1

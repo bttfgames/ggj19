@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01013af6-1f1b-49de-a74e-1a56db1124ec",
+            "Value": {
+                "id": "405d16f5-08ad-42c4-a265-2d8cd6aa6fbd",
+                "resourcePath": "objects\\obj_throne_mat\\obj_throne_mat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0b828777-0099-419e-9f4f-0db88cd0a0c4",
             "Value": {
                 "id": "2d1caad4-4a5f-4422-9b56-602474dd25f4",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "ad6c126f-a981-40da-83d6-e6296fd1db28",
+            "Value": {
+                "id": "f93bcb80-5789-47c2-b7b7-a9fd5a9ed741",
+                "resourcePath": "sounds\\sound_win\\sound_win.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ae6d3c46-2022-49d3-94ff-8e1cdabe5559",
             "Value": {
                 "id": "9734904c-e890-4a6e-9cee-ed88473b064f",
@@ -460,6 +476,14 @@
                 "id": "8fb0ddee-b472-4e6e-a53d-114ec420cd55",
                 "resourcePath": "tilesets\\house\\house.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "e2f10433-1f00-4106-a1c0-b0f95b9b999d",
+            "Value": {
+                "id": "4534910c-b103-4a33-87a6-edb48813f67c",
+                "resourcePath": "sprites\\spr_throne_mat\\spr_throne_mat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
