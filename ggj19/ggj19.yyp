@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "027e8ad9-833e-4559-bed9-388410bcb8b2",
-            "Value": {
-                "id": "bc0cd35a-adf0-404d-8974-dfc241c90c67",
-                "resourcePath": "sprites\\spr_door_open\\spr_door_open.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0b828777-0099-419e-9f4f-0db88cd0a0c4",
             "Value": {
                 "id": "2d1caad4-4a5f-4422-9b56-602474dd25f4",
@@ -76,6 +68,14 @@
                 "id": "7a58b362-34d2-47f3-8192-3ba8697309a2",
                 "resourcePath": "rooms\\room_level1\\room_level1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "111c48fa-a7c8-4cd7-b660-ef6243e5f08b",
+            "Value": {
+                "id": "0f226681-0ace-44dd-9a77-a27e705dce46",
+                "resourcePath": "objects\\obj_key\\obj_key.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -147,14 +147,6 @@
             "Value": {
                 "id": "f837d2af-6545-42a5-a094-412c20a07a1a",
                 "resourcePath": "sprites\\spr_toilet_paper\\spr_toilet_paper.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3ad5dcb9-a0ce-4b12-b43f-402bec119d43",
-            "Value": {
-                "id": "b39d00af-74f7-4235-8f33-b1d92d38f717",
-                "resourcePath": "sprites\\spr_key\\spr_key.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -319,14 +311,6 @@
             }
         },
         {
-            "Key": "67194705-ca14-42dd-86f1-ea74b9db5837",
-            "Value": {
-                "id": "cabb8abe-0b80-4cd8-805a-660485f84bf4",
-                "resourcePath": "objects\\obj_door\\obj_door.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "6723e2f8-86a1-4e7e-8c86-c1419aeb8dd4",
             "Value": {
                 "id": "fe937ffd-7cd2-44fa-97a0-5c182ea83db3",
@@ -388,14 +372,6 @@
                 "id": "6f33242f-26f6-4cf6-97c3-ae13268754b5",
                 "resourcePath": "objects\\obj_light\\obj_light.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "810f247c-80d1-4edd-9f98-bea51a99ade2",
-            "Value": {
-                "id": "8a8b5128-2bbc-4b5c-a156-f74c053376c0",
-                "resourcePath": "sounds\\sound_menu_music\\sound_menu_music.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -703,14 +679,6 @@
             }
         },
         {
-            "Key": "ec96fda2-2b07-47cb-abdc-cabb95a5946a",
-            "Value": {
-                "id": "b6ab76ed-586e-4c1b-8129-8fb0565d6024",
-                "resourcePath": "sprites\\spr_door\\spr_door.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "ed87fdef-74b1-4034-95c5-134c17f90a52",
             "Value": {
                 "id": "518418f2-6d68-41ca-8143-d51a0d586241",
@@ -751,14 +719,6 @@
             }
         },
         {
-            "Key": "f266c64b-b86e-4458-9cc2-8ccc88519bd3",
-            "Value": {
-                "id": "889bfde1-e75a-46b6-bf09-253454be8354",
-                "resourcePath": "sprites\\spr_door_opening\\spr_door_opening.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f30390b2-8c33-4585-a125-968b4605041a",
             "Value": {
                 "id": "75958f6c-c8c7-4a9f-895f-f987272dcd5f",
@@ -775,11 +735,11 @@
             }
         },
         {
-            "Key": "f53a39bd-949e-4c8e-8509-39576d154dfe",
+            "Key": "f4285c53-6d17-4255-8585-414cede2b07f",
             "Value": {
-                "id": "ef897cc4-4acb-425d-a6ef-44abebd21e53",
-                "resourcePath": "sounds\\sound_game_music_1\\sound_game_music_1.yy",
-                "resourceType": "GMSound"
+                "id": "fd074dec-8f1b-4272-9fbc-6db3669109cf",
+                "resourcePath": "rooms\\room_dark\\room_dark.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
