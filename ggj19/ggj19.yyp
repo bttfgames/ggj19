@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "00898576-9796-4a8d-972d-794663205b13",
+            "Value": {
+                "id": "592978bd-4467-4ed7-90e8-b503923d475e",
+                "resourcePath": "sprites\\spr_hud_toilet_paper\\spr_hud_toilet_paper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "01013af6-1f1b-49de-a74e-1a56db1124ec",
             "Value": {
                 "id": "405d16f5-08ad-42c4-a265-2d8cd6aa6fbd",

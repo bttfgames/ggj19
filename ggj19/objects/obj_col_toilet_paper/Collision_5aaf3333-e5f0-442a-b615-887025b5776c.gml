@@ -15,10 +15,10 @@ if(keyboard_check_pressed(vk_space))
 	/// @DnDHash : 449C5F6B
 	/// @DnDApplyTo : 1f18a24f-ea33-4a23-bb8b-53dab458d669
 	/// @DnDParent : 3498AC42
-	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "expr" "1"
 	/// @DnDArgument : "var" "toilet_frame"
 	with(obj_inv_toilet_paper) {
-	toilet_frame = 2;
+	toilet_frame = 1;
 	
 	}
 
