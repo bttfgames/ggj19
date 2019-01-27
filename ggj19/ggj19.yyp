@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "13653919-fd82-4b5e-9ad6-1f419e6cb2c0",
+            "Value": {
+                "id": "b36bfa77-f8eb-4ab9-a849-ff8b27a7a7d9",
+                "resourcePath": "sprites\\spr_text_about\\spr_text_about.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "138624cf-1dd8-4aff-8f90-5b08ee0b3533",
             "Value": {
                 "id": "60049025-ecdc-4ceb-84a0-cbe83d498785",
