@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "5cca81c0-398b-422c-9753-ea0bb3e038bc",
+            "Value": {
+                "id": "115cdc48-df81-49c5-b3e3-8c8e81275ed0",
+                "resourcePath": "rooms\\room_csneto\\room_csneto.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5cfd1d99-25eb-4586-b05e-e4c8ae076211",
             "Value": {
                 "id": "f09c35b5-3354-41ec-b9d6-4f8462424702",
