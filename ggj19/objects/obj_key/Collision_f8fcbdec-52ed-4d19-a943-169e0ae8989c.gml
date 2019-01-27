@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
+/// @DnDVersion : 1
+/// @DnDHash : 504A515D
+/// @DnDArgument : "msg" ""colidiu com chave""
+show_debug_message(string("colidiu com chave"));
+
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 45DEC6E0
@@ -13,11 +19,11 @@ if(keyboard_check_pressed(vk_space))
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 6D16FD27
-	/// @DnDApplyTo : 1f18a24f-ea33-4a23-bb8b-53dab458d669
+	/// @DnDApplyTo : 4adb3a27-5705-400a-bb20-ef5f1144d522
 	/// @DnDParent : 45DEC6E0
 	/// @DnDArgument : "expr" "1"
 	/// @DnDArgument : "var" "key_frame"
-	with(obj_inv_toilet_paper) {
+	with(obj_inv_key) {
 	key_frame = 1;
 	
 	}
@@ -38,6 +44,12 @@ if(keyboard_check_pressed(vk_space))
 	/// @DnDSaveInfo : "soundid" "632ed161-bda8-4d16-811d-8e937ca0949c"
 	audio_play_sound(sound_grab, 0, 0);
 }
+
+/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
+/// @DnDVersion : 1
+/// @DnDHash : 23D9FE41
+/// @DnDArgument : "msg" ""colidiu chave sem apertar espaço""
+show_debug_message(string("colidiu chave sem apertar espaço"));
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
