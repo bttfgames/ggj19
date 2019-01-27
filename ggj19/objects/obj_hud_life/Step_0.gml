@@ -40,6 +40,37 @@ if(life_delta_time >= timer_life_offset)
 		/// @DnDArgument : "var" "last_timer_life"
 		last_timer_life = current_time;
 	
+		/// @DnDAction : YoYo Games.Common.If_Expression
+		/// @DnDVersion : 1
+		/// @DnDHash : 712DEB5F
+		/// @DnDParent : 2C9E60A5
+		/// @DnDArgument : "expr" "player.is_pushing"
+		if(player.is_pushing)
+		{
+			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 121A145F
+			/// @DnDParent : 712DEB5F
+			/// @DnDArgument : "expr" "1500"
+			/// @DnDArgument : "var" "timer_life_offset"
+			timer_life_offset = 1500;
+		}
+	
+		/// @DnDAction : YoYo Games.Common.Else
+		/// @DnDVersion : 1
+		/// @DnDHash : 325345F9
+		/// @DnDParent : 2C9E60A5
+		else
+		{
+			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 3740A210
+			/// @DnDParent : 325345F9
+			/// @DnDArgument : "expr" "3000"
+			/// @DnDArgument : "var" "timer_life_offset"
+			timer_life_offset = 3000;
+		}
+	
 		/// @DnDAction : YoYo Games.Instance Variables.Get_Health
 		/// @DnDVersion : 1
 		/// @DnDHash : 22B533B5

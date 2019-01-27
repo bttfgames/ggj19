@@ -2,7 +2,7 @@
     "id": "ff0ab333-8c93-4ae4-aae2-b247a9afea9d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "mario_fudido_push_out",
+    "name": "spr_player_push_out",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -594,7 +594,7 @@
             "Key": "ff0ab333-8c93-4ae4-aae2-b247a9afea9d",
             "Value": {
                 "id": "ce0b22de-7cf6-49ba-a816-281f4b0a2e2e",
-                "resourcePath": "sprites\\mario_fudido_push_out\\mario_fudido_push_out.yy",
+                "resourcePath": "sprites\\spr_player_push_out\\spr_player_push_out.yy",
                 "resourceType": "GMSprite"
             }
         }
