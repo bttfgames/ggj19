@@ -13,8 +13,8 @@ var is_meeting = tile_place_meeting(x+1, y, "Collision");
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 72DA47A7
-/// @DnDArgument : "expr" "!is_meeting and !obj_hud_life.cagou"
-if(!is_meeting and !obj_hud_life.cagou)
+/// @DnDArgument : "expr" "!is_meeting and !obj_hud_life.cagou and !did_win"
+if(!is_meeting and !obj_hud_life.cagou and !did_win)
 {
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1

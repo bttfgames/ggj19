@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "027e8ad9-833e-4559-bed9-388410bcb8b2",
+            "Value": {
+                "id": "bc0cd35a-adf0-404d-8974-dfc241c90c67",
+                "resourcePath": "sprites\\spr_door_open\\spr_door_open.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b828777-0099-419e-9f4f-0db88cd0a0c4",
             "Value": {
                 "id": "2d1caad4-4a5f-4422-9b56-602474dd25f4",
@@ -139,6 +147,14 @@
             "Value": {
                 "id": "f837d2af-6545-42a5-a094-412c20a07a1a",
                 "resourcePath": "sprites\\spr_toilet_paper\\spr_toilet_paper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ad5dcb9-a0ce-4b12-b43f-402bec119d43",
+            "Value": {
+                "id": "b39d00af-74f7-4235-8f33-b1d92d38f717",
+                "resourcePath": "sprites\\spr_key\\spr_key.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -299,6 +315,14 @@
             "Value": {
                 "id": "7f7ebd23-2f24-484c-88ac-4b421b8c5695",
                 "resourcePath": "objects\\player\\player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "67194705-ca14-42dd-86f1-ea74b9db5837",
+            "Value": {
+                "id": "cabb8abe-0b80-4cd8-805a-660485f84bf4",
+                "resourcePath": "objects\\obj_door\\obj_door.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -679,6 +703,14 @@
             }
         },
         {
+            "Key": "ec96fda2-2b07-47cb-abdc-cabb95a5946a",
+            "Value": {
+                "id": "b6ab76ed-586e-4c1b-8129-8fb0565d6024",
+                "resourcePath": "sprites\\spr_door\\spr_door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed87fdef-74b1-4034-95c5-134c17f90a52",
             "Value": {
                 "id": "518418f2-6d68-41ca-8143-d51a0d586241",
@@ -716,6 +748,14 @@
                 "id": "ca553d92-1aaf-4a99-9c7e-2e0ac0b8754f",
                 "resourcePath": "objects\\obj_refrigerator\\obj_refrigerator.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f266c64b-b86e-4458-9cc2-8ccc88519bd3",
+            "Value": {
+                "id": "889bfde1-e75a-46b6-bf09-253454be8354",
+                "resourcePath": "sprites\\spr_door_opening\\spr_door_opening.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
