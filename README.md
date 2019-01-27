@@ -1,4 +1,4 @@
-# Search for the Golden Throne
+![](https://i.imgur.com/pt8cTGY.png)
 
 Our entry for the Global Game Jam 2019
 
