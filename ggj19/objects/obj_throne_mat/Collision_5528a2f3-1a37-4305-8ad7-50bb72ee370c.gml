@@ -21,4 +21,26 @@ if(global.has_toilet_paper == 1 && time_win == 0)
 	/// @DnDArgument : "expr" "current_time"
 	/// @DnDArgument : "var" "time_win"
 	time_win = current_time;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 2B61685B
+	/// @DnDParent : 15688C8E
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "var" "player.did_win"
+	player.did_win = 1;
+
+	/// @DnDAction : YoYo Games.Common.Apply_To
+	/// @DnDVersion : 1
+	/// @DnDHash : 30D736FB
+	/// @DnDDisabled : 1
+	/// @DnDApplyTo : other
+	/// @DnDParent : 15688C8E
+	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDVersion : 1
+	/// @DnDHash : 45E7BFC3
+	/// @DnDDisabled : 1
+	/// @DnDParent : 30D736FB
+	/// @DnDArgument : "x" "obj_throne_mat.x"
+	/// @DnDArgument : "y" "y"
 }

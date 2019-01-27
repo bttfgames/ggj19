@@ -1,5 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 6CBC2487
+/// @DnDArgument : "var" "did_win"
+did_win = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 5519AB99
 /// @DnDArgument : "var" "loop_death"
 loop_death = 0;
@@ -20,9 +26,9 @@ player_speed = 1;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 46DD0231
-/// @DnDArgument : "health" "20"
+/// @DnDArgument : "health" "100"
 
-__dnd_health = real(20);
+__dnd_health = real(100);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
