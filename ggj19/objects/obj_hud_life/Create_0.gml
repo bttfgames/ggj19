@@ -43,6 +43,19 @@ last_timer_life = current_time;
 /// @DnDArgument : "var" "timer_life_offset"
 timer_life_offset = 3000;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6A13575F
+/// @DnDArgument : "expr" "spr_hud_life_glow"
+/// @DnDArgument : "var" "life_sprite_glow_name"
+life_sprite_glow_name = spr_hud_life_glow;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1A215B8B
+/// @DnDArgument : "var" "show_glow"
+show_glow = 0;
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 6894800B
