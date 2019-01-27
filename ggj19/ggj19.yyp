@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "75146e76-10e7-4b35-b7ab-f03573cc5a39",
+            "Value": {
+                "id": "302c6ca0-bb9d-4185-ab93-25eba59cb696",
+                "resourcePath": "sprites\\spr_home_screen\\spr_home_screen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "77cea359-c30f-4a4b-a0ba-5cbf072d5f96",
             "Value": {
                 "id": "7d8d7e4c-9068-49cd-a065-043a281522b4",
@@ -396,6 +404,14 @@
                 "id": "eddced26-98a6-45c8-a82a-dd7cf3ce3c58",
                 "resourcePath": "sprites\\spr_hud_shit\\spr_hud_shit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "996b5d4e-eea9-4d87-b20d-cf854431c299",
+            "Value": {
+                "id": "0a477129-3f3a-4fc4-ab3a-22adb8c2ac28",
+                "resourcePath": "objects\\obj_hud_about_screen\\obj_hud_about_screen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -495,6 +511,14 @@
             }
         },
         {
+            "Key": "c342634a-b5db-489c-871e-55ddf79b1154",
+            "Value": {
+                "id": "bfece261-dc16-4a77-9564-83046de206b9",
+                "resourcePath": "sprites\\spr_about_screen\\spr_about_screen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c4fcaca2-cc92-450f-a91f-85fb2473ffe0",
             "Value": {
                 "id": "cb14311d-2bee-495f-8635-06d5c4062258",
@@ -572,6 +596,14 @@
                 "id": "d6da1fa6-ed13-49c8-b2c1-dca6a743d8c9",
                 "resourcePath": "tilesets\\terrain\\terrain.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "d7251c8c-1fa5-4bc7-ba01-7709cc81293d",
+            "Value": {
+                "id": "3557ee42-ef2d-4c7c-a4e2-2e2a2ffdd2bd",
+                "resourcePath": "objects\\obj_hud_home_screen\\obj_hud_home_screen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
