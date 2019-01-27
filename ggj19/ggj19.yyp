@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "810f247c-80d1-4edd-9f98-bea51a99ade2",
+            "Value": {
+                "id": "8a8b5128-2bbc-4b5c-a156-f74c053376c0",
+                "resourcePath": "sounds\\sound_menu_music\\sound_menu_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "825137d4-7757-43fb-8722-5c412dd3c537",
             "Value": {
                 "id": "98db416f-24cc-43b8-8834-23bb9e2c7d42",
@@ -724,6 +732,14 @@
                 "id": "d9cebc10-a283-4a7b-8bab-668cb90a2804",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f53a39bd-949e-4c8e-8509-39576d154dfe",
+            "Value": {
+                "id": "ef897cc4-4acb-425d-a6ef-44abebd21e53",
+                "resourcePath": "sounds\\sound_game_music_1\\sound_game_music_1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
