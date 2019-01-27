@@ -727,6 +727,14 @@
             }
         },
         {
+            "Key": "f4285c53-6d17-4255-8585-414cede2b07f",
+            "Value": {
+                "id": "fd074dec-8f1b-4272-9fbc-6db3669109cf",
+                "resourcePath": "rooms\\room_dark\\room_dark.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f57c6304-f497-4efc-9aa2-9d98eede6c34",
             "Value": {
                 "id": "331a9924-3620-4340-9ff2-0092cf3989c7",
