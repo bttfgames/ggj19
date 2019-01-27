@@ -1,3 +1,18 @@
+/// @DnDAction : YoYo Games.Common.If_Expression
+/// @DnDVersion : 1
+/// @DnDHash : 5C93102C
+/// @DnDArgument : "expr" "cagou"
+if(cagou)
+{
+	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDVersion : 1
+	/// @DnDHash : 026BDE90
+	/// @DnDParent : 5C93102C
+	/// @DnDArgument : "code" "instance_create_depth(player.x , player.y, -1, obj_hint);$(13_10)obj_hint.hint_text = "PRESS HOME TO RESTART";"
+	instance_create_depth(player.x , player.y, -1, obj_hint);
+	obj_hint.hint_text = "PRESS HOME TO RESTART";
+}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 488007C4
