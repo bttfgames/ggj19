@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "44865615-0874-41f5-98e0-38af066852e0",
+            "Value": {
+                "id": "1a8c4d99-8d84-45cc-8e36-b089d9bcfd0f",
+                "resourcePath": "rooms\\room_puzzle\\room_puzzle.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "47064745-f479-4d6e-a450-64f7e6636295",
             "Value": {
                 "id": "58fd8dfe-f2a5-4074-9dbf-e0c32c0b9936",
