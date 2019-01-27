@@ -13,6 +13,13 @@ if(keyboard_check(vk_control) == 1)
 	/// @DnDArgument : "var" "is_meeting"
 	is_meeting = tile_place_meeting(x+player.dir_x,y+player.dir_y,"Collision");
 
+	/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
+	/// @DnDVersion : 1
+	/// @DnDHash : 13EC6E98
+	/// @DnDParent : 0E77E765
+	/// @DnDArgument : "msg" "is_meeting"
+	show_debug_message(string(is_meeting));
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 28A0B26B
