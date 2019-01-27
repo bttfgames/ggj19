@@ -1,5 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 59BCE2AC
+/// @DnDArgument : "var" "change_sprite"
+change_sprite = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 4149F0F7
 /// @DnDArgument : "var" "cagou"
 cagou = 0;
